@@ -1,1 +1,43 @@
 # html-aula-13-08
+<html> <!--TAG de Abertura do codigo HTML-->
+    <head> <!--Tag do cabeçalho da pagina (aba da pagina)-->
+        <title><!--abre a tag de title-->
+
+        Aula de Web
+    
+        </title><!--fecha a Tag de titulo, o titulo que aparece na aba da pagina-->
+        
+    </head><!--fechamento da tag do cabeçalho da pagina, da aba-->
+    
+    <body><!--tag para iniciar o corpo da pagina-->
+        
+        <ul> <!--abre a tag de lista (unordered list - lista não ordenada)-->
+            <li>Primeiro item da lista</li><!--tag de item da list, conteudo da lista-->
+            <li>Segundo item da lista</li>
+            <li>Terceiro item da lista</li>
+       
+        </ul><!--fechamento da tag de lista-->
+       
+        <a 
+        href="https://www.sp.senai.br/" target="_blank"><!--Tag para relacionar o link ao corpo, e link para ativar o botao para o link abrir em outra pagina-->
+            <img src="jettttt.webp">
+        </img><!--fecha a tag de imagem-->
+        </a><!--fecha a tag da imagem-->
+        
+        <p><!--tag para abrir o paragrafo-->
+            tag para paragrafo
+        </p><!--tag para fechar o paragrafo-->
+        
+        <h1>EXTRA A NEW FLOP</h1><!--tag para titulos-->
+        
+        <h2>"h" para titulos</h2>
+        
+        <h3>RANDY GUN</h3>
+        
+        <h4>DEATH ROAD</h4>
+        
+        <h5>COOL AID</h5>
+        
+        <h6>PISSWASER</h6>
+    </body>
+</html>
