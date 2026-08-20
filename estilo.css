@@ -1,0 +1,29 @@
+p {
+
+    color:palevioletred;
+}
+.page-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+h1 {
+    color: rgb(201, 88, 207);
+    position: absolute;
+    top: 10px;
+    right: 1100px;
+}
+
+li {
+    color:darkgreen;
+}
+
+body {
+    background-color:#8A9597 ;
+}
+
+body {
+
+}
+
